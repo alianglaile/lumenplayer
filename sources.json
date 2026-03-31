@@ -16,7 +16,6 @@
     "note": "海外 IP 無廣告",
     "search": true,
     "name": "新歐樂影院",
-    "cover": "https://i.ibb.co/TK0pFjL/image.png",
     "api": "lumen://https://raw.githubusercontent.com/alianglaile/lumenplugin/main/olevod/config.json"
   },
   {
@@ -45,15 +44,6 @@
     "search": true,
     "name": "暴风资源",
     "api": "https://bfzyapi.com/api.php/provide/vod"
-  },
-  {
-    "id": "3D993DC1-A7EE-4188-B9D3-84C7E7A689C5",
-    "top": true,
-    "priority": 1005,
-    "note": "無貼片，插入式廣告",
-    "search": true,
-    "name": "电影天堂",
-    "api": "http://caiji.dyttzyapi.com/api.php/provide/vod"
   },
   {
     "id": "9DA38672-2302-4E0B-B20A-5B2717953306",
