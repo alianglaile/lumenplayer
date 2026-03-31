@@ -96,13 +96,6 @@
     "priority": 1000012
   },
   {
-    "id": "baiwan",
-    "name": "百万资源",
-    "api": "https://api.bwzyz.com/api.php/provide/vod",
-    "note": "premium",
-    "priority": 1000013
-  },
-  {
     "id": "madou",
     "name": "91麻豆",
     "api": "https://91md.me/api.php/provide/vod",
@@ -117,32 +110,11 @@
     "priority": 1000016
   },
   {
-    "id": "senlin",
-    "name": "森林资源",
-    "api": "https://slapibf.com/api.php/provide/vod",
-    "note": "premium",
-    "priority": 1000017
-  },
-  {
-    "id": "fanhao",
-    "name": "番号资源",
-    "api": "http://fhapi9.com/api.php/provide/vod",
-    "note": "premium",
-    "priority": 1000018
-  },
-  {
     "id": "jingpin",
     "name": "精品资源",
     "api": "https://www.jingpinx.com/api.php/provide/vod",
     "note": "premium",
     "priority": 1000019
-  },
-  {
-    "id": "shayu",
-    "name": "鲨鱼资源",
-    "api": "https://shayuapi.com/api.php/provide/vod",
-    "note": "premium",
-    "priority": 1000020
   },
   {
     "id": "xiaoji",
