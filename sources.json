@@ -1,0 +1,67 @@
+[
+  {
+    "id": "480B8728-240D-481C-82D4-BBFEE3006D2F",
+    "top": true,
+    "priority": 100,
+    "note": "仅包含主题",
+    "search": false,
+    "name": "豆瓣精选",
+    "api": "lumen://https://raw.githubusercontent.com/alianglaile/lumenplugin/main/douban/config.json",
+    "type": "theme"
+  },
+  {
+    "id": "0A3B9F59-CDBD-434C-8361-FEE37F797D61",
+    "top": false,
+    "priority": 1001,
+    "note": "海外 IP 無廣告",
+    "search": true,
+    "name": "新歐樂影院",
+    "cover": "https://i.ibb.co/TK0pFjL/image.png",
+    "api": "lumen://https://raw.githubusercontent.com/alianglaile/lumenplugin/main/olevod/config.json"
+  },
+  {
+    "id": "4047BF8A-3FE8-4349-B82D-A4620B55E7C8",
+    "top": true,
+    "priority": 1002,
+    "note": "無貼片，插入式廣告",
+    "search": true,
+    "name": "量子資源",
+    "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/"
+  },
+  {
+    "id": "DA0EE8B0-FE65-4252-95EA-5E46FCBCC085",
+    "top": true,
+    "priority": 1003,
+    "note": "無貼片，插入式廣告",
+    "search": true,
+    "name": "如意资源",
+    "api": "https://cj.rycjapi.com/api.php/provide/vod"
+  },
+  {
+    "id": "97043A62-49B9-491F-ADC3-1FACC7D2524D",
+    "top": true,
+    "priority": 1004,
+    "note": "無貼片，插入式廣告",
+    "search": true,
+    "name": "暴风资源",
+    "api": "https://bfzyapi.com/api.php/provide/vod"
+  },
+  {
+    "id": "3D993DC1-A7EE-4188-B9D3-84C7E7A689C5",
+    "top": true,
+    "priority": 1005,
+    "note": "無貼片，插入式廣告",
+    "search": true,
+    "name": "电影天堂",
+    "api": "http://caiji.dyttzyapi.com/api.php/provide/vod"
+  },
+  {
+    "id": "9DA38672-2302-4E0B-B20A-5B2717953306",
+    "top": true,
+    "priority": 1006,
+    "note": "貼片廣告，無插入式廣告",
+    "search": true,
+    "name": "360资源",
+    "api": "https://360zy.com/api.php/provide/vod"
+  }
+]

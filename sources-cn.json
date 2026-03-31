@@ -1,0 +1,46 @@
+[
+  {
+    "id": "480B8728-240D-481C-82D4-BBFEE3006D2F",
+    "top": true,
+    "priority": 100,
+    "note": "仅包含主题",
+    "search": false,
+    "name": "豆瓣精选",
+    "api": "lumen://https://raw.githubusercontent.com/alianglaile/lumenplugin/main/douban/config.json",
+    "type": "theme"
+  },
+  {
+    "id": "99D66384-271E-4225-8928-AE5D17EDCC45",
+    "top": true,
+    "priority": 1001,
+    "note": "要求大陸 IP",
+    "search": true,
+    "name": "新廠長",
+    "api": "syncnextPlugin://https://raw.githubusercontent.com/qoli/syncnextPlugin/main/plugin_czzy/config.json"
+  },
+  {
+    "id": "899F4DB7-8297-4F40-B3BF-BA2DEC77BAFA",
+    "Priority": 1002,
+    "note": "1080P 1.5M，文字貼片",
+    "Search": true,
+    "name": "魔都资源",
+    "api": "https://www.moduzy.com/api.php/provide/vod/at/xml/"
+  },
+  {
+    "id": "B1237D2F-CE9C-4A97-81E3-D6EB2D7AEF2E",
+    "Top": false,
+    "Priority": 1003,
+    "note": "1080P，1M",
+    "Search": false,
+    "name": "索尼资源网",
+    "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml/"
+  },
+  {
+    "id": "11E48559-345D-4A14-8FAA-A23B5FEADB33",
+    "Priority": 1004,
+    "note": "1080P，1.5M",
+    "Search": true,
+    "name": "闪电资源",
+    "api": "http://sdzyapi.com/api.php/provide/vod/at/xml/"
+  }
+]
