@@ -19,28 +19,39 @@
     "api": "syncnextPlugin://https://raw.githubusercontent.com/qoli/syncnextPlugin/main/plugin_czzy/config.json"
   },
   {
-    "id": "899F4DB7-8297-4F40-B3BF-BA2DEC77BAFA",
-    "Priority": 1002,
-    "note": "1080P 1.5M，文字貼片",
-    "Search": true,
-    "name": "魔都资源",
-    "api": "https://www.moduzy.com/api.php/provide/vod/at/xml/"
+    "id": "4047BF8A-3FE8-4349-B82D-A4620B55E7C8",
+    "top": true,
+    "priority": 1002,
+    "note": "無貼片，插入式廣告",
+    "search": true,
+    "name": "量子資源",
+    "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/"
   },
   {
-    "id": "B1237D2F-CE9C-4A97-81E3-D6EB2D7AEF2E",
-    "Top": false,
-    "Priority": 1003,
-    "note": "1080P，1M",
-    "Search": false,
-    "name": "索尼资源网",
-    "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml/"
+    "id": "DA0EE8B0-FE65-4252-95EA-5E46FCBCC085",
+    "top": true,
+    "priority": 1003,
+    "note": "無貼片，插入式廣告",
+    "search": true,
+    "name": "如意资源",
+    "api": "https://cj.rycjapi.com/api.php/provide/vod"
   },
   {
-    "id": "11E48559-345D-4A14-8FAA-A23B5FEADB33",
-    "Priority": 1004,
-    "note": "1080P，1.5M",
-    "Search": true,
-    "name": "闪电资源",
-    "api": "http://sdzyapi.com/api.php/provide/vod/at/xml/"
+    "id": "97043A62-49B9-491F-ADC3-1FACC7D2524D",
+    "top": true,
+    "priority": 1004,
+    "note": "無貼片，插入式廣告",
+    "search": true,
+    "name": "暴风资源",
+    "api": "https://bfzyapi.com/api.php/provide/vod"
+  },
+  {
+    "id": "9DA38672-2302-4E0B-B20A-5B2717953306",
+    "top": true,
+    "priority": 1006,
+    "note": "貼片廣告，無插入式廣告",
+    "search": true,
+    "name": "360资源",
+    "api": "https://360zy.com/api.php/provide/vod"
   }
 ]
