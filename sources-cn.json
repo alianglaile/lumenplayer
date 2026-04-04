@@ -5,7 +5,7 @@
     "priority": 100,
     "note": "仅包含主题",
     "search": false,
-    "name": "豆瓣精选",
+    "name": "推荐主题",
     "api": "lumen://https://raw.githubusercontent.com/alianglaile/lumenplugin/main/douban/config.json",
     "type": "theme"
   },
