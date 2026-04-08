@@ -5,7 +5,7 @@
         "priority": 100,
         "note": "仅包含主题",
         "search": false,
-        "name": "推荐主题",
+        "name": "演示主题",
         "api": "lumen://https://raw.githubusercontent.com/alianglaile/lumenplugin/main/douban/config.json",
         "type": "theme"
     },
@@ -13,9 +13,9 @@
         "id": "0A3B9F59-CDBD-434C-8361-FEE37F797D61",
         "top": false,
         "priority": 1001,
-        "note": "海外 IP 無廣告",
+        "note": "仅演示使用",
         "search": true,
-        "name": "新歐樂影院",
+        "name": "演示视频源",
         "api": "lumen://https://raw.githubusercontent.com/alianglaile/lumenplugin/main/olevod/config.json"
     }
 ]
