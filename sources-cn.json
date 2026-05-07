@@ -10,13 +10,13 @@
     "type": "theme"
   },
   {
-    "id": "99D66384-271E-4225-8928-AE5D17EDCC45",
+    "id": "DA0EE8B0-FE65-4252-95EA-5E46FCBCC085",
     "top": true,
     "priority": 1001,
-    "note": "要求大陸 IP",
+    "note": "無貼片，插入式廣告",
     "search": true,
-    "name": "新廠長",
-    "api": "syncnextPlugin://https://raw.githubusercontent.com/qoli/syncnextPlugin/main/plugin_czzy/config.json"
+    "name": "如意资源",
+    "api": "https://cj.rycjapi.com/api.php/provide/vod"
   },
   {
     "id": "4047BF8A-3FE8-4349-B82D-A4620B55E7C8",
@@ -28,13 +28,13 @@
     "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/"
   },
   {
-    "id": "DA0EE8B0-FE65-4252-95EA-5E46FCBCC085",
+    "id": "9DA38672-2302-4E0B-B20A-5B2717953306",
     "top": true,
     "priority": 1003,
-    "note": "無貼片，插入式廣告",
+    "note": "貼片廣告，無插入式廣告",
     "search": true,
-    "name": "如意资源",
-    "api": "https://cj.rycjapi.com/api.php/provide/vod"
+    "name": "360资源",
+    "api": "https://360zy.com/api.php/provide/vod"
   },
   {
     "id": "97043A62-49B9-491F-ADC3-1FACC7D2524D",
@@ -46,12 +46,29 @@
     "api": "https://bfzyapi.com/api.php/provide/vod"
   },
   {
-    "id": "9DA38672-2302-4E0B-B20A-5B2717953306",
-    "top": true,
-    "priority": 1006,
-    "note": "貼片廣告，無插入式廣告",
-    "search": true,
-    "name": "360资源",
-    "api": "https://360zy.com/api.php/provide/vod"
+    "id": "9F7388AC-EB9A-4ECD-93E3-C026B3825F63",
+    "Priority": 1005,
+    "note": "720P 文字貼片 0.85M",
+    "Search": true,
+    "name": "U酷资源",
+    "api": "https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8/at/xml"
+  },
+  {
+    "id": "BAA99837-D9A7-4F70-B984-03CE4205F4BE",
+    "Top": false,
+    "Priority": 1007,
+    "note": "AGE 動漫",
+    "Search": true,
+    "name": "新 AGE",
+    "api": "lumen://https://raw.githubusercontent.com/qoli/syncnextPlugin/main/plugin_age/config.json"
+  },
+  {
+    "id": "C52C3989-28CF-4380-B01F-0B2B73274E08",
+    "Top": false,
+    "Priority": 1008,
+    "note": "1080P，1M",
+    "Search": false,
+    "name": "索尼资源网",
+    "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml/"
   }
 ]
