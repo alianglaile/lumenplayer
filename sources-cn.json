@@ -46,14 +46,6 @@
     "api": "https://bfzyapi.com/api.php/provide/vod"
   },
   {
-    "id": "9F7388AC-EB9A-4ECD-93E3-C026B3825F63",
-    "Priority": 1005,
-    "note": "720P 文字貼片 0.85M",
-    "Search": true,
-    "name": "U酷资源",
-    "api": "https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8/at/xml"
-  },
-  {
     "id": "BAA99837-D9A7-4F70-B984-03CE4205F4BE",
     "Top": false,
     "Priority": 1007,
