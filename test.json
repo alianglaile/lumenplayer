@@ -1,0 +1,30 @@
+[
+    {
+        "id": "480B8728-240D-481C-82D4-BBFEE3006D2F",
+        "top": true,
+        "priority": 100,
+        "note": "仅包含主题",
+        "search": false,
+        "name": "演示主题",
+        "api": "lumen://https://raw.githubusercontent.com/alianglaile/lumenplugin/main/douban/config.json",
+        "type": "theme"
+    },
+    {
+        "id": "DA0EE8B0-FE65-4252-95EA-5E46FCBCC085",
+        "top": true,
+        "priority": 1001,
+        "note": "仅演示使用",
+        "search": true,
+        "name": "演示视频源1",
+        "api": "https://cj.rycjapi.com/api.php/provide/vod"
+    },
+    {
+        "id": "0A3B9F59-CDBD-434C-8361-FEE37F797D61",
+        "top": false,
+        "priority": 1002,
+        "note": "仅演示使用",
+        "search": true,
+        "name": "CloudDrive",
+        "api": "lumen://https://raw.githubusercontent.com/alianglaile/lumenplugin/main/clouddrive/config.json"
+    }
+]
