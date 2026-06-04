@@ -21,7 +21,7 @@
     {
         "id": "E88FA99D-3885-4038-9142-AC74E1F02147",
         "top": false,
-        "priority": 1002,
+        "priority": 500,
         "note": "仅演示使用",
         "search": true,
         "name": "CloudDrive",
